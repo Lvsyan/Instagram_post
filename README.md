@@ -1,3 +1,10 @@
+Explicación de como he hecho el ejercicio:
+
+- Primero de todo escribir el html entero para tener la estructura hecha
+- Empezar a enlazar el css y hacer los primeros cambios para quedar bonito con los estilos
+- Añadir ciertos cambios en el html acerca de los divs para ajustar un poco mejor el css
+- Ajustar ciertos cambios de css para terminar el ejercicio en condiciones
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
